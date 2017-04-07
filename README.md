@@ -1,3 +1,5 @@
+
+## edited for tensorflow 1.0.1
 ## tensorflow seq2seq chatbot
 
 > *Note: the repository is not maintained. Feel free to PM me if you'd like to take up the maintainance.*
